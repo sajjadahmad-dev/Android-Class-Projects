@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Store_API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Store_API/MobileApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myListView and ToasT" vcs="Git" />
+  </component>
+</project>
